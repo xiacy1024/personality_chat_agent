@@ -1,0 +1,2 @@
+# personality_chat_agent
+婚恋产品的智能聊天推荐agent，根据用户聊天内容匹配到性格标签并进行候选恋爱对象推荐
